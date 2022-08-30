@@ -1,5 +1,5 @@
 Spelling Correction:
-In class project I looked at the problems of spelling error detection and correction. The problem was to write your own spelling corrector. I have implement a noisy channel model for spelling correction. In this I implemented a very simple error model, and three different language models for comparison.
+In this project I looked at the problems of spelling error detection and correction. The problem was to write your own spelling corrector. I have implement a noisy channel model for spelling correction. In this I implemented a very simple error model, and three different language models for comparison.
  
 Language Models:
 1) Unigram Model:
